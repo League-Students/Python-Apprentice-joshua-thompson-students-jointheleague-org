@@ -7,9 +7,9 @@ write a new program that uses a loop to draw a pentagon.
 """
 import turtle
 
-tinna = Turtle.turtle()
+tina = turtle.Turtle()
 
-tina.shape('Turtle')
+tina.shape('turtle')
 tina.speed(2)
 ... # Your code here
 
