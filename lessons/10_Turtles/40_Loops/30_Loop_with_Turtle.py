@@ -13,7 +13,7 @@ tina.shape('turtle')
 tina.speed(2)
 ... # Your code here
 
-for i in range(5):
+for i in range(50):
     tina.pendown()
     tina.pencolor("red")
     tina.left(75)
