@@ -7,3 +7,19 @@ write a new program that uses a loop to draw a pentagon.
 """
 
 ... # Your code here
+
+
+tina.pendown()
+tina.pencolor("red")
+tina.(80)
+tina.left(75)
+
+
+
+
+
+
+
+
+
+
