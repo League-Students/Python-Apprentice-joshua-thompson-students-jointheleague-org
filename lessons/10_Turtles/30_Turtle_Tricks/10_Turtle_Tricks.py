@@ -11,7 +11,7 @@ turtle.setup(600,600,0,0)               # Set the size of the window
 
 tina = turtle.Turtle()                  # Create a turtle named tina
 
-
+tina.speed(1)
 
 tina.forward(30)
 tina.left(120)
