@@ -23,7 +23,9 @@ tina.left(105)
 tina.pencolor("pink")
 tina.foward(90)
 tina.left(105)
-
+tina.pencolor("orange")
+tina.foward(90)
+tina.left(105)
 # Use tina.forward() and tina.left() to draw a pentagon
 # Make each side of the pentagon a different color with 
 # tina.pencolor()
