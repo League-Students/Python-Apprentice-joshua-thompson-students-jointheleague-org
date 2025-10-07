@@ -24,8 +24,9 @@ tina.end_fill()
 tina.penup()
 tina.forward(180)
 tina.pendown()
-tina.pencolor("blue")
+tina.fillcolor("blue")
 tina.circle(90)
+tina.end_fill()
  # Your code here
 
 turtle.exitonclick()                    # Close the window when we click on it
