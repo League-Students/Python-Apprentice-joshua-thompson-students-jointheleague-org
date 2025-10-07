@@ -9,7 +9,7 @@ import Turtle
 
 tinna = Turtle.turtle()
 
-tina.shape('T')
+tina.shape('Turtle')
 ... # Your code here
 
 for i in range(5):
