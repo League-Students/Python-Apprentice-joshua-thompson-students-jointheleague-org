@@ -17,7 +17,7 @@ tina.left(105)
 tina.pencolor("blue")
 tina.foward(90)
 tina.left(105)
-tina.pencolor("")
+tina.pencolor("green")
 # Use tina.forward() and tina.left() to draw a pentagon
 # Make each side of the pentagon a different color with 
 # tina.pencolor()
