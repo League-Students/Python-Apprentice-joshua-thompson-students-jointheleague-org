@@ -19,7 +19,7 @@ tina.left(120)
 tina.pencolor("blue")
 tina.forward(30)
 tina.left(120)
-
+tina.pencolor("")
 tina.forward(30)
 
 
