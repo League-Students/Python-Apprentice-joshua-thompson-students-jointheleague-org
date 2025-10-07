@@ -11,6 +11,7 @@ import turtle                           # Tell Python we want to work with the t
 turtle.setup(600,600,0,0)               # Set the size of the window
 tina = turtle.Turtle()                  # Create a turtle named tina
 
+tina.pendown()
 tina.pencolr("red")
 tina.foward(90)
 tina.left(105)
