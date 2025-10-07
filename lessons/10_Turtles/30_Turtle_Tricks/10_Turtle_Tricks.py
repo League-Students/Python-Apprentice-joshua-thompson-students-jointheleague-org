@@ -17,10 +17,11 @@ tina.pencolor("red")
 tina.forward(30)
 tina.left(120)
 tina.pencolor("blue")
-tina.forward(30)
+tina.forward(90)
 tina.left(120)
-tina.pencolor("")
-tina.forward(30)
+tina.pencolor("green")
+tina.forward()
+tina.left(120)
 
 
 
