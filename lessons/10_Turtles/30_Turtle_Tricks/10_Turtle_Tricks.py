@@ -12,7 +12,7 @@ turtle.setup(600,600,0,0)               # Set the size of the window
 tina = turtle.Turtle()                  # Create a turtle named tina
 
 
-fir i in range:(2)
+for i in range:(2)
     tina.forward(30)
     tina.left(120)
 # Use tina.forward() and tina.left() to draw a triangle
