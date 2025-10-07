@@ -13,6 +13,7 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 
 tina.speed(1)
 
+
 tina.forward(30)
 tina.left(120)
 tina.forward(30)
